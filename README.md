@@ -22,7 +22,7 @@ Getting Started
 
 Screenshots
 -----------
-![screenshot](screenshot.png)
+![screenshot](https://github.com/BananaSpoon/Sensor-Graph/blob/master/device-2015-12-07-211911.png)
 
 Support
 -------
