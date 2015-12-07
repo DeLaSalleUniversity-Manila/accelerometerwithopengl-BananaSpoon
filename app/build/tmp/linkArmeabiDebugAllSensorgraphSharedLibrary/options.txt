@@ -1,0 +1,17 @@
+-shared
+-Wl,-soname,libsensorgraph.so
+-o
+C:\\Users\\Christian\\Desktop\\Practical\\Sensor-Graph\\app\\build\\intermediates\\binaries\\debug\\all\\obj\\armeabi\\libsensorgraph.so
+C:\\Users\\Christian\\Desktop\\Practical\\Sensor-Graph\\app\\build\\intermediates\\objectFiles\\armeabiDebugAllSensorgraphSharedLibrary\\sensorgraphMainCpp\\2wus062tzcinpjwp2oetqap07\\sensorgraph.o
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+--sysroot=C:\\Users\\Christian\\AppData\\Local\\Android\\sdk2\\ndk-bundle/platforms/android-21/arch-arm
+-Wl,--build-id
+-LC:\\Users\\Christian\\AppData\\Local\\Android\\sdk2\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\libs\\armeabi
+-lc++_static
+-no-canonical-prefixes
+-llog
+-lGLESv2
+-landroid
